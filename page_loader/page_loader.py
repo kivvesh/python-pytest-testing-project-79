@@ -34,4 +34,6 @@ def download(url, path):
         logging.error((error))
         return False
 
-print(download('https://habr.com/ru/articles/740376','/home/kivvesh/hexlet'))
+#print(download('https://habr.com/ru/articles/740376','/home/kivvesh/hexlet'))
+if __name__ == '__main__':
+    download()
