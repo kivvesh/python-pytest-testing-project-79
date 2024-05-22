@@ -1,0 +1,7 @@
+.gitignore
+.github
+venv/
+.idea
+__pycache__/
+*.toml
+*/__pycache__
